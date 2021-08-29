@@ -19,8 +19,7 @@ h1{
     height: auto;
 }
 
-tribute-info{
+div{
     text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-block: 50px;
 }
